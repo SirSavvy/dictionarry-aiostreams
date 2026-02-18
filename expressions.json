@@ -1,1 +1,572 @@
-code_file:19
+[
+  {
+    "expression": "/*2160p Quality Tier 1*/ regexMatched(streams,'2160p Quality Tier 1')",
+    "score": 465000,
+    "enabled": true
+  },
+  {
+    "expression": "/*2160p Quality Tier 2*/ regexMatched(streams,'2160p Quality Tier 2')",
+    "score": 464000,
+    "enabled": true
+  },
+  {
+    "expression": "/*2160p Quality Tier 3*/ regexMatched(streams,'2160p Quality Tier 3')",
+    "score": 463000,
+    "enabled": true
+  },
+  {
+    "expression": "/*2160p Quality Tier 4*/ regexMatched(streams,'2160p Quality Tier 4')",
+    "score": 462000,
+    "enabled": true
+  },
+  {
+    "expression": "/*2160p Quality Tier 5*/ regexMatched(streams,'2160p Quality Tier 5')",
+    "score": 460000,
+    "enabled": true
+  },
+  {
+    "expression": "/*2160p WEB-DL*/ regexMatched(streams,'2160p WEB-DL')",
+    "score": 440000,
+    "enabled": true
+  },
+  {
+    "expression": "/*2160p Quality Tier 6*/ regexMatched(streams,'2160p Quality Tier 6')",
+    "score": 439000,
+    "enabled": true
+  },
+  {
+    "expression": "/*UHD Bluray*/ regexMatched(streams,'UHD Bluray')",
+    "score": 420000,
+    "enabled": true
+  },
+  {
+    "expression": "/*1080p WEB-DL*/ regexMatched(streams,'1080p WEB-DL')",
+    "score": 380000,
+    "enabled": true
+  },
+  {
+    "expression": "/*1080p Bluray*/ regexMatched(streams,'1080p Bluray')",
+    "score": 280000,
+    "enabled": true
+  },
+  {
+    "expression": "/*1080p WEBRip*/ regexMatched(streams,'1080p WEBRip')",
+    "score": 280000,
+    "enabled": true
+  },
+  {
+    "expression": "/*720p WEB-DL*/ regexMatched(streams,'720p WEB-DL')",
+    "score": 240000,
+    "enabled": true
+  },
+  {
+    "expression": "/*720p Bluray*/ regexMatched(streams,'720p Bluray')",
+    "score": 180000,
+    "enabled": true
+  },
+  {
+    "expression": "/*720p WEBRip*/ regexMatched(streams,'720p WEBRip')",
+    "score": 180000,
+    "enabled": true
+  },
+  {
+    "expression": "/*1080p Quality Tier 1*/ regexMatched(streams,'1080p Quality Tier 1')",
+    "score": 125000,
+    "enabled": true
+  },
+  {
+    "expression": "/*1080p Quality Tier 2*/ regexMatched(streams,'1080p Quality Tier 2')",
+    "score": 124000,
+    "enabled": true
+  },
+  {
+    "expression": "/*1080p Quality Tier 3*/ regexMatched(streams,'1080p Quality Tier 3')",
+    "score": 123000,
+    "enabled": true
+  },
+  {
+    "expression": "/*1080p Quality Tier 4*/ regexMatched(streams,'1080p Quality Tier 4')",
+    "score": 122000,
+    "enabled": true
+  },
+  {
+    "expression": "/*1080p Quality Tier 5*/ regexMatched(streams,'1080p Quality Tier 5')",
+    "score": 121000,
+    "enabled": true
+  },
+  {
+    "expression": "/*1080p Quality Tier 6*/ regexMatched(streams,'1080p Quality Tier 6')",
+    "score": 120000,
+    "enabled": true
+  },
+  {
+    "expression": "/*576p Bluray*/ regexMatched(streams,'576p Bluray')",
+    "score": 120000,
+    "enabled": true
+  },
+  {
+    "expression": "/*720p Quality Tier 1*/ regexMatched(streams,'720p Quality Tier 1')",
+    "score": 85000,
+    "enabled": true
+  },
+  {
+    "expression": "/*720p Quality Tier 2*/ regexMatched(streams,'720p Quality Tier 2')",
+    "score": 84000,
+    "enabled": true
+  },
+  {
+    "expression": "/*720p Quality Tier 3*/ regexMatched(streams,'720p Quality Tier 3')",
+    "score": 83000,
+    "enabled": true
+  },
+  {
+    "expression": "/*720p Quality Tier 4*/ regexMatched(streams,'720p Quality Tier 4')",
+    "score": 82000,
+    "enabled": true
+  },
+  {
+    "expression": "/*720p Quality Tier 5*/ regexMatched(streams,'720p Quality Tier 5')",
+    "score": 81000,
+    "enabled": true
+  },
+  {
+    "expression": "/*480p Bluray*/ regexMatched(streams,'480p Bluray')",
+    "score": 80000,
+    "enabled": true
+  },
+  {
+    "expression": "/*720p Quality Tier 6*/ regexMatched(streams,'720p Quality Tier 6')",
+    "score": 80000,
+    "enabled": true
+  },
+  {
+    "expression": "/*480p WEB-DL*/ regexMatched(streams,'480p WEB-DL')",
+    "score": 60000,
+    "enabled": true
+  },
+  {
+    "expression": "/*576p Quality Tier 1*/ regexMatched(streams,'576p Quality Tier 1')",
+    "score": 43000,
+    "enabled": true
+  },
+  {
+    "expression": "/*576p Quality Tier 2*/ regexMatched(streams,'576p Quality Tier 2')",
+    "score": 42000,
+    "enabled": true
+  },
+  {
+    "expression": "/*576p Quality Tier 3*/ regexMatched(streams,'576p Quality Tier 3')",
+    "score": 41000,
+    "enabled": true
+  },
+  {
+    "expression": "/*576p Quality Tier 4*/ regexMatched(streams,'576p Quality Tier 4')",
+    "score": 40000,
+    "enabled": true
+  },
+  {
+    "expression": "/*480p Quality Tier 1*/ regexMatched(streams,'480p Quality Tier 1')",
+    "score": 23000,
+    "enabled": true
+  },
+  {
+    "expression": "/*480p Quality Tier 2*/ regexMatched(streams,'480p Quality Tier 2')",
+    "score": 22000,
+    "enabled": true
+  },
+  {
+    "expression": "/*480p Quality Tier 3*/ regexMatched(streams,'480p Quality Tier 3')",
+    "score": 21000,
+    "enabled": true
+  },
+  {
+    "expression": "/*480p Quality Tier 4*/ regexMatched(streams,'480p Quality Tier 4')",
+    "score": 20000,
+    "enabled": true
+  },
+  {
+    "expression": "/*DVD*/ regexMatched(streams,'DVD')",
+    "score": 20000,
+    "enabled": true
+  },
+  {
+    "expression": "/*DVD Remux*/ regexMatched(streams,'DVD Remux')",
+    "score": 20000,
+    "enabled": true
+  },
+  {
+    "expression": "/*SD Quality Tier 1*/ regexMatched(streams,'SD Quality Tier 1')",
+    "score": 11000,
+    "enabled": true
+  },
+  {
+    "expression": "/*SD Quality Tier 2*/ regexMatched(streams,'SD Quality Tier 2')",
+    "score": 10000,
+    "enabled": true
+  },
+  {
+    "expression": "/*MA*/ regexMatched(streams,'MA')",
+    "score": 6000,
+    "enabled": true
+  },
+  {
+    "expression": "/*DSNP*/ regexMatched(streams,'DSNP')",
+    "score": 4000,
+    "enabled": true
+  },
+  {
+    "expression": "/*iT*/ regexMatched(streams,'iT')",
+    "score": 4000,
+    "enabled": true
+  },
+  {
+    "expression": "/*Dolby Vision*/ regexMatched(streams,'Dolby Vision')",
+    "score": 3000,
+    "enabled": true
+  },
+  {
+    "expression": "/*AMZN*/ regexMatched(streams,'AMZN')",
+    "score": 2000,
+    "enabled": true
+  },
+  {
+    "expression": "/*ATVP*/ regexMatched(streams,'ATVP')",
+    "score": 2000,
+    "enabled": true
+  },
+  {
+    "expression": "/*HDR10+*/ regexMatched(streams,'HDR10+')",
+    "score": 2000,
+    "enabled": true
+  },
+  {
+    "expression": "/*HMAX*/ regexMatched(streams,'HMAX')",
+    "score": 2000,
+    "enabled": true
+  },
+  {
+    "expression": "/*MAX*/ regexMatched(streams,'MAX')",
+    "score": 2000,
+    "enabled": true
+  },
+  {
+    "expression": "/*Better Theatricals*/ regexMatched(streams,'Better Theatricals')",
+    "score": 1000,
+    "enabled": true
+  },
+  {
+    "expression": "/*Special Edition*/ regexMatched(streams,'Special Edition')",
+    "score": 1000,
+    "enabled": true
+  },
+  {
+    "expression": "/*HDR*/ regexMatched(streams,'HDR')",
+    "score": 1000,
+    "enabled": true
+  },
+  {
+    "expression": "/*HDR10*/ regexMatched(streams,'HDR10')",
+    "score": 1000,
+    "enabled": true
+  },
+  {
+    "expression": "/*HLG*/ regexMatched(streams,'HLG')",
+    "score": 1000,
+    "enabled": true
+  },
+  {
+    "expression": "/*NF*/ regexMatched(streams,'NF')",
+    "score": 1000,
+    "enabled": true
+  },
+  {
+    "expression": "/*PQ*/ regexMatched(streams,'PQ')",
+    "score": 1000,
+    "enabled": true
+  },
+  {
+    "expression": "/*DTS-X*/ regexMatched(streams,'DTS-X')",
+    "score": 1600,
+    "enabled": true
+  },
+  {
+    "expression": "/*TrueHD*/ regexMatched(streams,'TrueHD')",
+    "score": 1200,
+    "enabled": true
+  },
+  {
+    "expression": "/*DTS-HD MA*/ regexMatched(streams,'DTS-HD MA')",
+    "score": 1200,
+    "enabled": true
+  },
+  {
+    "expression": "/*FLAC*/ regexMatched(streams,'FLAC')",
+    "score": 800,
+    "enabled": true
+  },
+  {
+    "expression": "/*PCM*/ regexMatched(streams,'PCM')",
+    "score": 800,
+    "enabled": true
+  },
+  {
+    "expression": "/*DTS-HD HRA*/ regexMatched(streams,'DTS-HD HRA')",
+    "score": 700,
+    "enabled": true
+  },
+  {
+    "expression": "/*Opus*/ regexMatched(streams,'Opus')",
+    "score": 700,
+    "enabled": true
+  },
+  {
+    "expression": "/*Dolby Digital +*/ regexMatched(streams,'Dolby Digital +')",
+    "score": 600,
+    "enabled": true
+  },
+  {
+    "expression": "/*DTS-ES*/ regexMatched(streams,'DTS-ES')",
+    "score": 500,
+    "enabled": true
+  },
+  {
+    "expression": "/*Atmos*/ regexMatched(streams,'Atmos')",
+    "score": 400,
+    "enabled": true
+  },
+  {
+    "expression": "/*Dolby Digital*/ regexMatched(streams,'Dolby Digital')",
+    "score": 400,
+    "enabled": true
+  },
+  {
+    "expression": "/*DTS*/ regexMatched(streams,'DTS')",
+    "score": 300,
+    "enabled": true
+  },
+  {
+    "expression": "/*AAC*/ regexMatched(streams,'AAC')",
+    "score": 200,
+    "enabled": true
+  },
+  {
+    "expression": "/*WEB-DL Tier 1*/ regexMatched(streams,'WEB-DL Tier 1')",
+    "score": 100,
+    "enabled": true
+  },
+  {
+    "expression": "/*WEB-DL Tier 2*/ regexMatched(streams,'WEB-DL Tier 2')",
+    "score": 80,
+    "enabled": true
+  },
+  {
+    "expression": "/*WEB-DL Tier 3*/ regexMatched(streams,'WEB-DL Tier 3')",
+    "score": 60,
+    "enabled": true
+  },
+  {
+    "expression": "/*WEB-DL Tier 4*/ regexMatched(streams,'WEB-DL Tier 4')",
+    "score": 40,
+    "enabled": true
+  },
+  {
+    "expression": "/*WEB-DL Tier 5*/ regexMatched(streams,'WEB-DL Tier 5')",
+    "score": 20,
+    "enabled": true
+  },
+  {
+    "expression": "/*Repack3*/ regexMatched(streams,'Repack3')",
+    "score": 8,
+    "enabled": true
+  },
+  {
+    "expression": "/*Repack2*/ regexMatched(streams,'Repack2')",
+    "score": 7,
+    "enabled": true
+  },
+  {
+    "expression": "/*Repack1*/ regexMatched(streams,'Repack1')",
+    "score": 6,
+    "enabled": true
+  },
+  {
+    "expression": "/*BCORE*/ regexMatched(streams,'BCORE')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*CRAV*/ regexMatched(streams,'CRAV')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*CRIT*/ regexMatched(streams,'CRIT')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*DRPO*/ regexMatched(streams,'DRPO')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*HTSR*/ regexMatched(streams,'HTSR')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*HULU*/ regexMatched(streams,'HULU')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*iP*/ regexMatched(streams,'iP')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*MUBI*/ regexMatched(streams,'MUBI')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*NOW*/ regexMatched(streams,'NOW')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*PCOK*/ regexMatched(streams,'PCOK')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*PLAY*/ regexMatched(streams,'PLAY')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*PMTP*/ regexMatched(streams,'PMTP')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*ROKU*/ regexMatched(streams,'ROKU')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*SHO*/ regexMatched(streams,'SHO')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*STAN*/ regexMatched(streams,'STAN')",
+    "score": 0,
+    "enabled": false
+  },
+  {
+    "expression": "/*x265 (Bluray)*/ regexMatched(streams,'x265 (Bluray)')",
+    "score": -400000,
+    "enabled": true
+  },
+  {
+    "expression": "/*ASL*/ regexMatched(streams,'ASL')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*AV1*/ regexMatched(streams,'AV1')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*Banned Groups*/ regexMatched(streams,'Banned Groups')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*Banned UHD Bluray*/ regexMatched(streams,'Banned UHD Bluray')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*Banned WEBRip*/ regexMatched(streams,'Banned WEBRip')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*Dolby Vision (Without Fallback)*/ regexMatched(streams,'Dolby Vision (Without Fallback)')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*Full Disc*/ regexMatched(streams,'Full Disc')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*h265*/ regexMatched(streams,'h265')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*Remux*/ regexMatched(streams,'Remux')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*VP9*/ regexMatched(streams,'VP9')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*VVC*/ regexMatched(streams,'VVC')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*x264 (2160p)*/ regexMatched(streams,'x264 (2160p)')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*x265 (Missing)*/ regexMatched(streams,'x265 (Missing)')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*x265 (WEB)*/ regexMatched(streams,'x265 (WEB)')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*Xvid*/ regexMatched(streams,'Xvid')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*3D*/ regexMatched(streams,'3D')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*B&W*/ regexMatched(streams,'B&W')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*Extras*/ regexMatched(streams,'Extras')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*Sing Along*/ regexMatched(streams,'Sing Along')",
+    "score": -999999,
+    "enabled": true
+  },
+  {
+    "expression": "/*Upscale*/ regexMatched(streams,'Upscale')",
+    "score": -999999,
+    "enabled": true
+  }
+]
