@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Dictionarry 2160p Quality",
+    "description": "AIOStreams regexes & stream expressions from Dictionarry-Hub/database (2160p Quality profile). Prioritises transparent x265 4K encodes.",
+    "regexUrl": "https://raw.githubusercontent.com/sirsavvy/dictionarry-aiostreams/main/regexes.json",
+    "selUrl": "https://raw.githubusercontent.com/sirsavvy/dictionarry-aiostreams/main/expressions.json"
+  }
+]
